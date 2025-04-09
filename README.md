@@ -1,1 +1,1 @@
-# sid-cup-golf-repo
+SidCup Golf is a modern, responsive front-end project built using HTML, CSS, and JavaScript. It showcases a stylish and interactive landing page for a golf club, focusing on elegant design, animations, and user experience.
